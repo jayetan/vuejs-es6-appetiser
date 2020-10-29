@@ -1,5 +1,8 @@
 # vue-appetiser
 
+This project was built using Vue.js2, ES6 and Vuetify.
+Unit test covers only .vue files
+
 ## Project setup
 ```
 yarn install
