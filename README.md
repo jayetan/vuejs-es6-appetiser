@@ -33,5 +33,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Screenshots
-<img src="screenshot-shot.png" width="771" />
+<img src="screen-shot.png" width="771" />
 <img src="unit-test.png" width="596" />
